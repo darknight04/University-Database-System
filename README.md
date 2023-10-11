@@ -10,7 +10,7 @@ The data include students taking courses outside their department, and instructo
   The file largeRelationsInsertFile.sql contains SQL insert statements for larger, randomly created relations for a truly strange university (since course titles and department names are chosen randomly).
 - Queries.sql: SQL code for querying the data
 
-##The sizes of the relations are as follows:
+## The sizes of the relations are as follows:
 department	20
 
 instructor	50
