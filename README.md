@@ -32,4 +32,5 @@ takes	30000
 advisor	2000
 
 
+<img width="917" alt="image001" src="https://github.com/darknight04/University-Database-System/assets/46163327/51d49cf5-4265-411a-9e58-8bf9a3c18377">
 
