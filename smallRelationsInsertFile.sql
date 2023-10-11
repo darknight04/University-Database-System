@@ -1,3 +1,6 @@
+/*--------------------------------------------------------------------
+    THIS FILE ONLY CONTAINS THE CODE GIVEN IN A PROBLEM STATEMENT
+---------------------------------------------------------------------*/
 delete from prereq;
 delete from time_slot;
 delete from advisor;
