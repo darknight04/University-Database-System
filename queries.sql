@@ -1,3 +1,6 @@
+/*----------------------------------------------------
+    THIS FILE CONTAINS ALL THE CODE WRITEN BY ME
+------------------------------------------------------*/
 
 /* 1. Name of instructors from Biology dept.*/
 SELECT name FROM instructor 
